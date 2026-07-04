@@ -2,7 +2,13 @@
 
 
 
-Software Development Student | Navy Veteran | Software Engineer
+Software Developer | Photographer | Navy Veteran
+
+## 🚀 About Me
+
+I'm a software developer with a passion for building thoughtful, user-focused solutions through code. I enjoy turning ideas into functional applications by combining software engineering principles with clean design and continuous learning.
+
+Outside of development, I'm a photographer and creative who enjoys exploring new places and finding inspiration through travel and visual storytelling. Whether I'm designing an application or composing a photograph, I'm driven by curiosity, craftsmanship, and the pursuit of meaningful work.
 
 
 💻 Tech Stack
